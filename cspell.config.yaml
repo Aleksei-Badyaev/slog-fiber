@@ -1,0 +1,22 @@
+version: "0.2"
+ignorePaths: []
+dictionaryDefinitions: []
+dictionaries: []
+words:
+  - gofiber
+  - samber
+  - slogfiber
+  - slogformatter
+ignoreWords:
+  - andybalholm
+  - bytebufferpool
+  - crashme
+  - fasthttp
+  - goleak
+  - isatty
+  - klauspost
+  - mattn
+  - rivo
+  - uniseg
+  - valyala
+import: []
